@@ -1,0 +1,28 @@
+{
+    "project_info": {
+      "project_number": "638845126379",
+      "project_id": "symbolic-eye-399514",
+      "storage_bucket": "https://console.cloud.google.com/storage/browser/directorsilva"
+    },
+    "client": [
+      {
+        "client_info": {
+          "mobilesdk_app_id": "your-app-id",
+          "android_client_info": {
+            "package_name": "https://app.ubtop.com.br"
+          }
+        },
+        "api_key": [
+          {
+            "current_key": "AIzaSyCuq_Cdt48-Y9b_6CHDtN2I0oVOGlFXC0U"
+          }
+        ],
+        "services": {
+          "appinvite_service": {
+            "other_platform_oauth_client": []
+          }
+        }
+      }
+    ]
+  }
+  
