@@ -1,0 +1,4 @@
+[16-Jan-2023 07:36:15 UTC] PHP Fatal error:  Allowed memory size of 2097152 bytes exhausted (tried to allocate 1646592 bytes) in /home/customer/www/cabme.siswebapp.com/vendor/composer/autoload_real.php on line 31
+[16-Jan-2023 07:36:26 UTC] PHP Fatal error:  Allowed memory size of 2097152 bytes exhausted (tried to allocate 1646592 bytes) in /home/customer/www/cabme.siswebapp.com/vendor/composer/autoload_real.php on line 31
+[16-Jan-2023 07:36:50 UTC] PHP Fatal error:  Allowed memory size of 2097152 bytes exhausted (tried to allocate 1646592 bytes) in /home/customer/www/cabme.siswebapp.com/vendor/composer/autoload_real.php on line 31
+[16-Jan-2023 07:37:01 UTC] PHP Fatal error:  Allowed memory size of 2097152 bytes exhausted (tried to allocate 1646592 bytes) in /home/customer/www/cabme.siswebapp.com/vendor/composer/autoload_real.php on line 31

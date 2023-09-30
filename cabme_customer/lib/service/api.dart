@@ -3,8 +3,8 @@ import 'dart:io';
 import 'package:cabme/utils/Preferences.dart';
 
 class API {
-  static const baseUrl = "${"Base url"}/api/v1/"; // live
-  static const apiKey = "Replace your API key";
+  static const baseUrl = "https://cabme.siswebapp.com/api/v1/"; // live
+  static const apiKey = "base64:fJpELRBgWpng4Sk+xxkHKyyicu3RA0V/yfz3Vms3/rA=";
 
   static Map<String, String> authheader = {
     HttpHeaders.contentTypeHeader: 'application/json; charset=UTF-8',
